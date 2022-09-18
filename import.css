@@ -1,0 +1,34 @@
+.body-1Ukv50 {
+    background-color: var(--background-secondary);
+    margin: 15px;
+    width: calc(100% - 30px);
+    border-radius: 8px;
+    border: none;
+}
+.root-g14mjS.small-23Atuv.fullscreenOnMobile-ixj0e3 {
+    background-color: var(--background-floating);
+    border-radius: 20px;
+}
+.banner-2boKnS, .banner-1YaD3N {
+    margin: 10px;
+    width: calc(100% - 20px);
+    border-radius: 8px;
+}
+.container-1gYwHN {
+    border-radius: 8px;
+    background-color: var(--background-primary);
+    padding: 5px;
+    width: fit-content;
+}
+.clickable-1knRMS {
+    margin: 0;
+}
+.connectedAccountContainer-SlCC-S {
+    width: 100%;
+}
+.connectedAccountsColumn-2LgTkZ {
+    width: calc((100%/2) - 20px);
+}
+.userPopoutInner-PA9zkU.userPopoutInnerWithoutTheme-23vLID.userPopoutInnerNonPremium-3zrFkp {
+    background-color: var(--background-secondary-alt);
+}
